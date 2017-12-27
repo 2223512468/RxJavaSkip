@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn01" />
+
+    <Button
+        android:id="@+id/btn_02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn02" />
+
+
+    <Button
+        android:id="@+id/btn_03"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn03" />
+
+
+    <Button
+        android:id="@+id/btn_04"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn04" />
+
+
+    <Button
+        android:id="@+id/btn_05"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn05" />
+
+
+    <Button
+        android:id="@+id/btn_06"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn06" />
+
+    <Button
+        android:id="@+id/btn_07"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn07" />
+
+    <Button
+        android:id="@+id/btn_08"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn08" />
+
+    <Button
+        android:id="@+id/btn_09"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn09" />
+
+    <Button
+        android:id="@+id/btn_10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn10" />
+
+    <Button
+        android:id="@+id/btn_11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn11" />
+
+    <Button
+        android:id="@+id/btn_12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="btn12" />
+
+
+</LinearLayout>
